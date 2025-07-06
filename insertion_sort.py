@@ -16,3 +16,8 @@ print("Sorted array (descending):", nums)
 nums2 = [10, 20, 15, 30, 5]
 insertion_sort_desc(nums2)
 print("Sorted array (descending):", nums2)
+
+# Example 3
+nums3 = [-10, 20, 15, -30, 5]
+insertion_sort_desc(nums3)
+print("Sorted array (descending):", nums3)
